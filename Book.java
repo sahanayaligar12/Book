@@ -1,5 +1,3 @@
-package Example;
-
 public class Book {
 
     String bookName;
